@@ -1,4 +1,4 @@
-# Pong-in-SystemVerilog
+# Pong Clone in SV
 A work in progress 1-Player Pong clone created using SystemVerilog
 ![image36254 1](https://github.com/user-attachments/assets/eb15d327-6c3f-4d9e-ae50-56ed911fa94f)
 
